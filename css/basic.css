@@ -12,7 +12,7 @@
 /*------------------------------------------------------------------------------
 	GENERAL
 ------------------------------------------------------------------------------*/
-body {
+body#helpportal {
 	background: url('../img/pexels-madison-inouye-1054018.jpg') no-repeat;
 	background-size: cover;
 	/* background-attachment: fixed; */
