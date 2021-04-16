@@ -12,12 +12,6 @@
 /*------------------------------------------------------------------------------
 	GENERAL
 ------------------------------------------------------------------------------*/
-body#helpportal {
-	background: url('../img/pexels-madison-inouye-1054018.jpg') no-repeat;
-	background-size: cover;
-	/* background-attachment: fixed; */
-}
-
 header { margin: 3% 0 2% 0; }
 a { text-decoration: none; }
 
