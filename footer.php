@@ -21,11 +21,11 @@
 				<h5 class="headin5_amrc col_white_amrc pt2">Quick links</h5>
 				<!--headin5_amrc-->
 				<ul class="footer_ul_amrc">
-					<li><a href="https://www.angela-bruderer.ch/abmageadm/">AB Magento</a></li>
-					<li><a href="https://www.praktikus.ch/cs2/">PRA Magento</a></li>
-					<li><a href="https://jira.angela.ch/">AB Jira Intern</a></li>
-					<li><a href="https://jira.dotsource.de/">dot.Source Jira</a></li>
-					<li><a href="https://suite6.emarsys.net/">Emarsys Suite</a></li>
+					<li><a target="_blank" href="https://www.angela-bruderer.ch/abmageadm/">AB Magento</a></li>
+					<li><a target="_blank" href="https://www.praktikus.ch/cs2/">PRA Magento</a></li>
+					<li><a target="_blank" href="https://jira.angela.ch/">AB Jira Intern</a></li>
+					<li><a target="_blank" href="https://jira.dotsource.de/">dot.Source Jira</a></li>
+					<li><a target="_blank" href="https://suite6.emarsys.net/">Emarsys Suite</a></li>
 				</ul>
 				<!--footer_ul_amrc ends here-->
 			</div>
@@ -54,11 +54,11 @@
 
 	<div class="container">
 		<ul class="foote_bottom_ul_amrc">
-			<li><a href="../">Helpportal</a></li>
-			<li><a href="https://www.gulldesign.ch/code/public">miniPIM</a></li>
-			<li><a href="../varcode/">Variationskarten</a></li>
-			<li><a href="../bulk-link-open/">Multi-Artikel öffnen</a></li>
-			<li><a href="../deeplink/">Deeplink erstellen</a></li>
+			<li><a target="_blank" href="../ecommerce">Helpportal</a></li>
+			<li><a target="_blank" href="https://www.gulldesign.ch/code/public">miniPIM</a></li>
+			<li><a target="_blank" href="../varcode/">Variationskarten</a></li>
+			<li><a target="_blank" href="../bulk-link-open/">Multi-Artikel öffnen</a></li>
+			<li><a target="_blank" href="../deeplink/">Deeplink erstellen</a></li>
 		</ul>
 		<!--foote_bottom_ul_amrc ends here-->
 		<p class="text-center">Copyright @2021 - <?= date('Y') ?> | Designed with <i class="fas fa-heart"></i> by <a href="https://www.gulldesign.ch">gullDesign.ch</a></p>
